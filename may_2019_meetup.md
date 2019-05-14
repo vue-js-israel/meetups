@@ -22,7 +22,8 @@ _Short break_
 
 **19:05 - 19:50** [Vue dynamic components are superb](http://bit.ly/vue-dynamic-cmps) (Yaron Biton - MisterBit)
 
-[Code demo](http://bit.ly/vue-dynamic-cmps
+[Code demo](http://bit.ly/vue-dynamic-cmps)
+
 **19:55 - 20:10** [Production-Ready Vue.js Apps With Nuxt.js](https://www.slideshare.net/SnirShechter/productionready-vuejs-apps-with-nuxtjs) (Snir Shechter)
 
 _Short break_
