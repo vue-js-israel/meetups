@@ -1,4 +1,4 @@
-# meetups
+# Our Meetups
 List of past meetups &amp; with talks slides
 
 ## May the Vue be with you - A new Beginning 🎉🎉 (13 May 2019 - Petah Tikvah)
