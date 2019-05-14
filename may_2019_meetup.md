@@ -1,18 +1,19 @@
 # May the Vue be with you - New beginning 🎉🎉 #
+Thanks ❤️ ❤️ for Cloudinary for sponsoring us with venue, food and gift. 
 
 ## 📆Agenda: ##
 
 **18:30** Welcome & Networking
 
-**18:40 - 18:45** (Key notes about VueJS & VueJS Israel)[https://slides.com/mayashavin/key-notes-about-vuejs-israel/fullscreen] (Maya Shavin - Dima)
+**18:40 - 18:45** [Key notes about VueJS & VueJS Israel](https://slides.com/mayashavin/key-notes-about-vuejs-israel/fullscreen) (Maya Shavin - Dima)
 
-**18:45 - 19:00** (Microinteractions: Little things that matter)[https://link.medium.com/avdSBsTdFW] (Jonathan Doron)
+**18:45 - 19:00** [Microinteractions: Little things that matter)](https://link.medium.com/avdSBsTdFW) (Jonathan Doron)
 
 _Short break_
 
 **19:05 - 19:50** Vue dynamic components are superb (Yaron Biton - MisterBit)
 
-**19:55 - 20:10** (Production-Ready Vue.js Apps With Nuxt.js)[https://www.slideshare.net/SnirShechter/productionready-vuejs-apps-with-nuxtjs] (Snir Shechter)
+**19:55 - 20:10** [Production-Ready Vue.js Apps With Nuxt.js](https://www.slideshare.net/SnirShechter/productionready-vuejs-apps-with-nuxtjs) (Snir Shechter)
 
 _Short break_
 
