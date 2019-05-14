@@ -23,18 +23,27 @@ _Short break_
 
 ## 🏢The venue: ##
 Cloudinary Office
+
 Building C - 2nd floor
+
 18 Aharon Bart
+
 Petah Tikvah
 
 ## 😍What to expect: ##
 - Good content and awesome speakers!
+
 - Good food (kosher also!)
+
 - Beer 🍺
+
 - Stickers! 🤩
+
 - Special gift (of course 😏)
 
 ## 📍How to get to the event: ##
 By train: Train to Petah Tikvah Kyriat Arie and then walk for 100m.
+
 By bus: Moovit! 😆
+
 By car: 18 Aharon Bart, Building C, Petah Tikvah (parking is available around the area so don't worry)
