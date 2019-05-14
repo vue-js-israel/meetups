@@ -24,7 +24,7 @@ _Short break_
 
 [Code demo](http://bit.ly/vue-dynamic-cmps)
 
-**19:55 - 20:10** [Production-Ready Vue.js Apps With Nuxt.js](https://www.slideshare.net/SnirShechter/productionready-vuejs-apps-with-nuxtjs) (Snir Shechter)
+**19:55 - 20:10** [Production-Ready Vue.js Apps With Nuxt.js](https://www.slideshare.net/SnirShechter/production-ready-vue-apps-with-nuxtjs) (Snir Shechter)
 
 _Short break_
 
