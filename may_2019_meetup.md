@@ -29,7 +29,9 @@ _Short break_
 _Short break_
 
 **20:15 - 20:30** Networking & Discussion
+
 **20:30 - 20:45** GIFT time!!! 🎁Raffle for special gift (value ~190$) 🎁
+
 **20:45** - Bye bye 🖖
 
 ## 🏢The venue:
