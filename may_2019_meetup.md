@@ -8,7 +8,7 @@ Thanks ❤️ ❤️ for [Cloudinary](https://cloudinary.com) for sponsoring us 
 
 ## 📹The full playlist: 
 
-[May meetup playlist]https://www.youtube.com/playlist?list=PLDOkyp-lEYFgVhmlP4oZ0vlCLKGkI4IJa
+[May meetup playlist](https://www.youtube.com/playlist?list=PLDOkyp-lEYFgVhmlP4oZ0vlCLKGkI4IJa)
 
 ## 📆Agenda:
 
