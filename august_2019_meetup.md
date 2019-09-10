@@ -18,6 +18,7 @@ Coming soon
 **19:00 - 19:10** Welcome note from Yad2 (Shlomi)
 
 **19:15 - 20:00** [Production-Ready Vue.js Apps With Nuxt.js](https://www.slideshare.net/SnirShechter/productionready-vue-websites-using-nuxtjs) (Snir Shechter)
+
 Code: [https://github.com/SnirShechter/Nuxt-Example](https://github.com/SnirShechter/Nuxt-Example)
 
 _Short break_
