@@ -17,13 +17,14 @@ Coming soon
 
 **19:00 - 19:10** Welcome note from Yad2 (Shlomi)
 
-**19:15 - 20:00** Production-Ready Vue.js Apps With Nuxt.js (Snir Shechter)
+**19:15 - 20:00** [Production-Ready Vue.js Apps With Nuxt.js](https://www.slideshare.net/SnirShechter/productionready-vue-websites-using-nuxtjs) (Snir Shechter)
+Code: [https://github.com/SnirShechter/Nuxt-Example](https://github.com/SnirShechter/Nuxt-Example)
 
 _Short break_
 
 **20:15 - 20:30** Get your dynamic app up and running fast with Gridify (Gridsome + Netlify) (Maya Shavin)
 
-**20:35 - 20:50** Our journey @Yad2 with NuxtJS (Omri Matias)
+**20:35 - 20:50** [Our journey @Yad2 with NuxtJS](https://docs.google.com/presentation/d/1dpjU8jZAmOft8y91bMwnnuMyzl9M-pKLkabuNkPofmQ/edit?usp=sharing) (Omri Matias)
 
 **20:50 - 20:55** GIFT time!!! 🎁Raffle for special gift (value ~190$) 🎁
 
