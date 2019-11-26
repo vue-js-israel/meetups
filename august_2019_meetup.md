@@ -23,7 +23,7 @@ Code: [https://github.com/SnirShechter/Nuxt-Example](https://github.com/SnirShec
 
 _Short break_
 
-**20:15 - 20:30** Get your dynamic app up and running fast with Gridify (Gridsome + Netlify) (Maya Shavin)
+**20:15 - 20:30** [Get your dynamic app up and running fast with Gridify (Gridsome + Netlify)](https://slides.com/mayashavin/gridify-your-app) (Maya Shavin)
 
 **20:35 - 20:50** [Our journey @Yad2 with NuxtJS](https://docs.google.com/presentation/d/1dpjU8jZAmOft8y91bMwnnuMyzl9M-pKLkabuNkPofmQ/edit?usp=sharing) (Omri Matias)
 
