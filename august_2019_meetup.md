@@ -6,8 +6,11 @@ Thanks ❤️ ❤️ for [Yad2](https://yad2.co.il) for sponsoring us with venue
 * [Maya Shavin - Cloudinary](https://twitter.com/MayaShavin)
 * [Omri Matias - Yad2](https://www.facebook.com/omri.matias)
 
-## 📹The full playlist: 
-Coming soon
+## 📹The full playlist:
+[Full playlist](https://www.youtube.com/playlist?list=PLDOkyp-lEYFiqltyINdw9gizVnAhWdKnS)
+[Keynotes](https://youtu.be/v9JFT3AJyrs)
+[Production-Ready Vue.js Apps With Nuxt.js](https://youtu.be/yK_P9ZxXsEM)
+[Few words about Yad2](https://youtu.be/NS29K0K2AyE)
 
 ## 📆Agenda:
 
