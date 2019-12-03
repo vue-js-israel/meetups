@@ -11,7 +11,7 @@ Thanks ❤️ ❤️ for [Yad2](https://yad2.co.il) for sponsoring us with venue
 * [Keynotes](https://youtu.be/v9JFT3AJyrs)
 * [Production-Ready Vue.js Apps With Nuxt.js](https://youtu.be/yK_P9ZxXsEM)
 * [Few words about Yad2](https://youtu.be/NS29K0K2AyE)
-* [Our journey @Yad2 with NuxtJS)(https://youtu.be/_WmdyoPV5R8)
+* [Our journey @Yad2 with NuxtJS](https://youtu.be/_WmdyoPV5R8)
 
 ## 📆Agenda:
 
