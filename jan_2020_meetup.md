@@ -1,5 +1,5 @@
 
-# UI Frameworks in Vue.js - Component or Utility-first? 
+# UI Frameworks in Vue.js - Component or Utility-first?
 
 Thanks ❤️ ❤️ for [TailorBrands](https://www.tailorbrands.com/) for sponsoring us with venue and food, and [VueSchool](https://vueschool.io) for sponsoring our meetup gift.
 

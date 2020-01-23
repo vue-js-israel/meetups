@@ -14,3 +14,10 @@ _13 August 2019 - Yad2 HQ, Bnei Brak_
 - [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/august_2019_meetup.md)
 - [Photos](https://www.facebook.com/officalVuejsIsrael/photos/?tab=album&album_id=837686863293598)
 - Recordings - Coming soon
+
+## UI Frameworks in Vue.js - Component or Utility-first?
+_22 January 2020 - TailorBrands HQ, Tel Aviv_
+
+- [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/jan_2020_meetup.md)
+- [Photos](https://www.facebook.com/pg/officalVuejsIsrael/photos/?tab=album&album_id=954622791600004)
+- Recordings - _coming soon!_
