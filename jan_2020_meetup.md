@@ -5,7 +5,7 @@ Thanks ❤️ ❤️ for [TailorBrands](https://www.tailorbrands.com/) for spons
 
 ## Speakers
 
-* [Elad Cohen - GoCode](https://www.facebook.com/MarBahur)
+* [Elad Cohen - GoCode](https://www.facebook.com/elad.fullstack)
 * [Daniel Dror - TailorBrands](https://www.facebook.com/daniel.dror.96)
 * [Maya Shavin - Cloudinary](https://www.facebook.com/mayashavin/)
 * [Dima Vishnevetsky - Freelancer](https://www.facebook.com/dimshik100)
@@ -20,15 +20,15 @@ Thanks ❤️ ❤️ for [TailorBrands](https://www.tailorbrands.com/) for spons
 
 **18:35 - 18:40** [Key notes about TailorBrands & VueJS Israel meetup](https://drive.google.com/file/d/1t4hc-qdaaSXr3jMrdZUsYkt9X_KM33TN/view?usp=sharing) (Shahar Avigezer - TailorBrands)
 
-**18:45 - 19:15** [Quasar - Really easy cross-platform](https://docs.google.com/presentation/d/1Cw7Qc0-FLrUHkVybIAtKTIsb3nyxwyeJpsvsl4PhSu4/edit?usp=sharing)(Elad Cohen - GoCode)
+**18:45 - 19:15** [Quasar - Really easy cross-platform](https://docs.google.com/presentation/d/1Cw7Qc0-FLrUHkVybIAtKTIsb3nyxwyeJpsvsl4PhSu4/edit?usp=sharing) (Elad Cohen - GoCode)
 
-**19:20 - 19:40** [Mastering TailwindCSS](https://drive.google.com/file/d/1o10voMGOpAKriDPuDzmcWF2e0ma26Vmn/view?usp=sharing)(Daniel Dror - TailorBrands)
+**19:20 - 19:40** [Mastering TailwindCSS](https://drive.google.com/file/d/1o10voMGOpAKriDPuDzmcWF2e0ma26Vmn/view?usp=sharing) (Daniel Dror - TailorBrands)
 
 _Short break_
 
-**19:50 - 20:10** [Performant Component through customization](https://slides.com/mayashavin/performant-component-library)(Maya Shavin - Cloudinary)
+**19:50 - 20:10** [Performant Component through customization](https://slides.com/mayashavin/performant-component-library) (Maya Shavin - Cloudinary)
 
-**20:15 - 20:35** [Choosing Vuetify was a mistake](https://slides.com/dimshik/choosing-vuetify-was-a-mistake)(Dima Vishnevetsky)
+**20:15 - 20:35** [Choosing Vuetify was a mistake](https://slides.com/dimshik/choosing-vuetify-was-a-mistake) (Dima Vishnevetsky)
 
 _Short break for networking and Q&A_
 
