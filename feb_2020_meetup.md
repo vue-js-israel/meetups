@@ -23,6 +23,8 @@ Thanks ❤️ ❤️ for [Cloudinary](https://www.cloudinary.com/) for sponsorin
 
 **18:45 - 19:45** [Know awesome GridSome in one-hour](https://bit.ly/gocode-gridsome) (Elad Cohen - GoCode)
 
+[Demo code repo](https://github.com/eladcandroid/gridsome-workshop)
+
 _Short break_
 **19:55 - 20:55** [Web performance](https://drive.google.com/file/d/140Bw6R4CI2A_mNpDjjvz99n3u5tZmk98/view?usp=sharing) (Tamas Piros - Cloudinary)
 
