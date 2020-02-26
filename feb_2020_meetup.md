@@ -6,7 +6,7 @@ Thanks ❤️ ❤️ for [Cloudinary](https://www.cloudinary.com/) for sponsorin
 ## Speakers
 
 * [Elad Cohen - GoCode](https://www.facebook.com/elad.fullstack)
-* [Tamas Piros - TailorBrands](https://twitter.com/tpiros)
+* [Tamas Piros - Cloudinary](https://twitter.com/tpiros)
 * [Patrick Tolosa - Cloudinary](https://www.cloudinary.com/)
 
 ## 📹The full playlist
