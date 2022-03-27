@@ -2,6 +2,14 @@
 
 List of past meetups &amp; with talks slides
 
+## Have a reactive pizza with Vue 3.0
+
+_25 March 2022 - Swimm HQ, Tel Aviv_
+
+- [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/march_2022_meetup.md)
+- [Photos](https://www.facebook.com/media/set?vanity=officalVuejsIsrael&set=a.1525299144532363)
+- Recordings - _coming soon!_
+
 ## Performance optimization and Server-less in Vue
 
 _25 February 2020 - CLoudinary HQ, Petah Tikvah_
