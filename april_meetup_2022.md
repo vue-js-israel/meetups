@@ -1,5 +1,5 @@
 
-# Have a reactive Pizza with the Vue 3.0
+# Be pretty and secure in developing with Vue.js
 
 Thanks ❤️ ❤️ for [Microsoft Reactor](https://reactor-ext.azurewebsites.net/en-us/reactor/location/telaviv) for hosting us with venue and food, and [Vue School](https://vueschool.io) for sponsoring our meetup gift.
 
