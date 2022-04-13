@@ -9,7 +9,7 @@ Thanks ❤️ ❤️ for [Microsoft Reactor](https://reactor-ext.azurewebsites.n
 
 ## Speakers
 
-* [Liran Tal - Snyk](https://il.linkedin.com/in/talliran)
+* [Liran Tal - Snyk](https://twitter.com/liran_tal)
 * [Dima Vishnevetsky - ClientSide](https://il.linkedin.com/in/dimshik100)
 
 ## 📹The full playlist
