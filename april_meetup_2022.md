@@ -22,7 +22,7 @@ Thanks ❤️ ❤️ for [Microsoft Reactor](https://reactor-ext.azurewebsites.n
 
 **18:20 - 18:30** Keynotes
 
-**18:30 - 19:00** [Vue.js developers are victims of weaponized NPM packages for protest and malware - Liran Tal (Snyk) - Hebrew]()
+**18:30 - 19:00** [Vue.js developers are victims of weaponized npm packages for protest and malware - Liran Tal (Snyk) - Hebrew](https://bit.ly/lirantal-fb1)
 
 _Short Break_
 
