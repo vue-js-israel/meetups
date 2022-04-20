@@ -6,7 +6,7 @@ List of past meetups &amp; with talks slides
 
 _11 April 2022 - Microsoft Reactor, Tel Aviv_
 
-- [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/april_2022_meetup.md)
+- [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/april_meetup_2022.md)
 - [Photos](https://photos.google.com/share/AF1QipM79ataeWjaiCWe-3XCSY-B-4DD5SvpBvSEkDNojKOh9AEyCgvCBczpLCi5yLh5Uw?pli=1&key=Ulc0N2x5Q0Ezb1lsR01WQVltV0RVaUVxaGxmVjRR)
 - Recordings - _coming soon!_
 
