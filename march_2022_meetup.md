@@ -15,7 +15,7 @@ Thanks ❤️ ❤️ for [Swimm.io](https://swimm.io/) for sponsoring us with ve
 
 ## 📹The full playlist
 
-*Coming soon!*
+[Youtube Channel Playlist](https://www.youtube.com/playlist?list=PLDOkyp-lEYFgPAvI93kBhVuVwOpZ4DmXM)
 
 ## 📆 Agenda
 
