@@ -14,7 +14,7 @@ Thanks ❤️ ❤️ for [Microsoft Reactor](https://reactor-ext.azurewebsites.n
 
 ## 📹The full playlist
 
-*Coming soon!*
+[Playlist on YouTube Channel](https://www.youtube.com/playlist?list=PLDOkyp-lEYFgPAvI93kBhVuVwOpZ4DmXM)
 
 ## 📆 Agenda
 
