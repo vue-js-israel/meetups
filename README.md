@@ -16,7 +16,7 @@ _25 March 2022 - Swimm HQ, Tel Aviv_
 
 - [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/march_2022_meetup.md)
 - [Photos](https://www.facebook.com/media/set?vanity=officalVuejsIsrael&set=a.1525299144532363)
-- Recordings - _coming soon!_
+- [Recordings](https://www.youtube.com/playlist?list=PLDOkyp-lEYFgPAvI93kBhVuVwOpZ4DmXM)
 
 ## Performance optimization and Server-less in Vue
 
