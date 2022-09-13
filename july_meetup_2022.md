@@ -9,7 +9,7 @@ Thanks ❤️ ❤️ for [JFrog Israel](https://www.facebook.com/JFrogIsrael) fo
 
 ## Speakers
 
-* [David Levy - Tikal/Swimm]()
+* [David Levy - Tikal/Swimm](https://www.facebook.com/davidmeirlevy)
 * [Evgeni Dikerman - JFrog](https://twitter.com/evgenidikerman)
 
 ## 📹The full playlist
