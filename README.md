@@ -7,7 +7,7 @@ _13 July 2022 - JFrog, Tel Aviv_
 
 - [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/july_meetup_2022.md)
 - [Photos](https://www.facebook.com/media/set/?set=a.1603751103353833&type=3)
-- [Recordings](hhttps://youtube.com/playlist?list=PLDOkyp-lEYFgZsH0UQYrcZFiESxCXXIQV)
+- [Recordings](https://youtube.com/playlist?list=PLDOkyp-lEYFgZsH0UQYrcZFiESxCXXIQV)
 
 ## Be pretty and secure in developing with Vue.js
 
