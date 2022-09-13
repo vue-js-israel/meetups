@@ -2,13 +2,20 @@
 
 List of past meetups &amp; with talks slides
 
+## State management in Vue
+_13 July 2022 - JFrog, Tel Aviv_
+
+- [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/july_meetup_2022.md)
+- [Photos](https://www.facebook.com/media/set/?set=a.1603751103353833&type=3)
+- [Recordings](hhttps://youtube.com/playlist?list=PLDOkyp-lEYFgZsH0UQYrcZFiESxCXXIQV)
+
 ## Be pretty and secure in developing with Vue.js
 
 _11 April 2022 - Microsoft Reactor, Tel Aviv_
 
 - [Agenda & slides](https://github.com/vue-js-israel/meetups/blob/master/april_meetup_2022.md)
 - [Photos](https://photos.google.com/share/AF1QipM79ataeWjaiCWe-3XCSY-B-4DD5SvpBvSEkDNojKOh9AEyCgvCBczpLCi5yLh5Uw?pli=1&key=Ulc0N2x5Q0Ezb1lsR01WQVltV0RVaUVxaGxmVjRR)
-- Recordings - _coming soon!_
+- [Recordings](https://www.youtube.com/playlist?list=PLDOkyp-lEYFiMszHinPOLU2dABdqEnMpt)
 
 ## Have a reactive pizza with Vue 3.0
 
