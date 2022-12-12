@@ -12,7 +12,7 @@ Thanks ❤️ ❤️ for [TailorBrands](https://www.tailorbrands.com/) for spons
 
 ## 📹The full playlist
 
-*Coming soon!*
+[YouTube videos](https://youtube.com/playlist?list=PLDOkyp-lEYFi2b7CF-XxaxJiIYZip0MxD)
 
 ## 📆Agenda
 
