@@ -42,7 +42,9 @@ Tel Aviv
 ## ❤️ Sponsors:
 
 Our meetup host & Gift sponsor: JFrog
+
 https://www.facebook.com/JFrogIsrael
 
 Gift sponsor: Vue School
+
 https://vueschool.io/

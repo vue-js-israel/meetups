@@ -45,6 +45,7 @@ Tel Aviv
 ## ❤️ Sponsors:
 
 Our meetup host: Swimm
+
 https://swimm.io
 
 Gift sponsor: Vue School + Swimm

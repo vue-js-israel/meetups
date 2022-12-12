@@ -42,6 +42,7 @@ Tel Aviv
 ## ❤️ Sponsors:
 
 Our meetup host: Microsoft
+
 https://reactor-ext.azurewebsites.net/en-us/reactor/location/telaviv
 
 Gift sponsor: Vue School
