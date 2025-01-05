@@ -1,5 +1,5 @@
 
-# Deployment Vue projects securely
+# Data Management with Vue
 
 Thanks ❤️ ❤️ for [Semperis](https://www.semperis.com/) for hosting us with venue and food and gift, and [Vue School](https://vueschool.io) for sponsoring our meetup gift.
 
