@@ -14,7 +14,7 @@ Thanks ❤️ ❤️ for [Swimm.io](https://swimm.io) for hosting us with venue 
 
 ## 📹The full playlist
 
-[Playlist](https://www.youtube.com/watch?v=hB6luEjqANA&list=PLDOkyp-lEYFg2TB2elf_M7EwLV2rCxhPy)]
+[Playlist](https://www.youtube.com/watch?v=hB6luEjqANA&list=PLDOkyp-lEYFg2TB2elf_M7EwLV2rCxhPy)
 
 ## 📆 Agenda
 
