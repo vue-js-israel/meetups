@@ -14,7 +14,7 @@ Thanks ❤️ ❤️ for [Isracard](https://digital.isracard.co.il/) for hosting
 
 ## 📹The full playlist
 
-Coming soon !
+[https://youtu.be/KgBEJN_rYVo?si=kgTtLzYY8DWkrXLW](https://youtu.be/KgBEJN_rYVo?si=kgTtLzYY8DWkrXLW)
 
 ## 📆 Agenda
 
